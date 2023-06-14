@@ -5,3 +5,4 @@ A repo to organize information on thoughts on AI
 
 * Have fun
 * Take over the world
+* **be loud**
